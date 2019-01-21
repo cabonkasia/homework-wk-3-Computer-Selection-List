@@ -1,4 +1,4 @@
-# Copmuter-models selection app
+# Computer-models selection app
 
 This project was a homework assignement. 
 It is a react-redux app which allows you to choose a model from a drop-down menu and add it to a list above.
