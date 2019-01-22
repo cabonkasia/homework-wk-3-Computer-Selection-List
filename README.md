@@ -3,8 +3,12 @@
 This project was a homework assignement. 
 It is a react-redux app which allows you to choose a model from a drop-down menu and add it to a list above.
 
+## Demo
 
-This project was bootstrapped with `create-eact-app`
+https://awesome-meitner-f25e1b.netlify.com/
+
+
+This project was bootstrapped with `create-react-app`
 
 ## Built with:
 - React with Redux
